@@ -1,4 +1,4 @@
-hello-world
+hinweis
 ===========
 
-This is a new repository.
+This is the latest version of the dstk repository.
